@@ -1,0 +1,5 @@
+2025-07-21T17:34:19.646709300 | sai is a good guy => NOT SPAM
+2025-07-21T17:34:29.476373800 | sai is very very good  => NOT SPAM
+2025-07-21T17:56:25.533928400 | free  => NOT SPAM
+2025-07-21T17:56:40.374118500 | free win sai  => SPAM
+2025-07-21T17:57:20.742826900 | sai krishna win free prize => SPAM
