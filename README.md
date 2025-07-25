@@ -55,7 +55,7 @@ SMS-Spam-Filter/
 
 ## 📷 Screenshots
 
-> 
+> screenshot attached to the project.
 
 ---
 
